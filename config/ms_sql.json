@@ -1,0 +1,6 @@
+{
+    "user" : "SQLEXPRESS",
+    "server" : "localhost\\sqlexpress",
+    "password" : "Password@1234",
+    "database" : "contests"
+}
